@@ -1,0 +1,160 @@
+{
+    "data": {
+        "editor:github/ooicloud/branding/artwork/logos.md": {
+            "data": {
+                "factory": "Editor",
+                "path": "github/tjcrone/agu2019/logos.md"
+            }
+        },
+        "editor:github/tjcrone/agu2019/logos.md": {
+            "data": {
+                "path": "github/tjcrone/agu2019/logos.md",
+                "factory": "Editor"
+            }
+        },
+        "file-browser-filebrowser:cwd": {
+            "path": "github/tjcrone/agu2019"
+        },
+        "layout-restorer:data": {
+            "main": {
+                "dock": {
+                    "type": "split-area",
+                    "orientation": "vertical",
+                    "sizes": [
+                        0.5257575410156519,
+                        0.4742424589843481
+                    ],
+                    "children": [
+                        {
+                            "type": "split-area",
+                            "orientation": "horizontal",
+                            "sizes": [
+                                0.11902311182002781,
+                                0.36495900194122577,
+                                0.5160178862387464
+                            ],
+                            "children": [
+                                {
+                                    "type": "tab-area",
+                                    "currentIndex": 0,
+                                    "widgets": [
+                                        "markdownviewer-widget:github/tjcrone/agu2019/logos.md"
+                                    ]
+                                },
+                                {
+                                    "type": "tab-area",
+                                    "currentIndex": 0,
+                                    "widgets": [
+                                        "markdownviewer-widget:github/tjcrone/agu2019/camhd_image.md"
+                                    ]
+                                },
+                                {
+                                    "type": "tab-area",
+                                    "currentIndex": 2,
+                                    "widgets": [
+                                        "editor:github/tjcrone/agu2019/logos.md",
+                                        "editor:github/tjcrone/agu2019/camhd_image.md",
+                                        "terminal:1"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "split-area",
+                            "orientation": "horizontal",
+                            "sizes": [
+                                0.34820936639118455,
+                                0.3322314049586777,
+                                0.31955922865013775
+                            ],
+                            "children": [
+                                {
+                                    "type": "tab-area",
+                                    "currentIndex": 0,
+                                    "widgets": [
+                                        "notebook:github/tjcrone/agu2019/open_database.ipynb"
+                                    ]
+                                },
+                                {
+                                    "type": "tab-area",
+                                    "currentIndex": 0,
+                                    "widgets": [
+                                        "notebook:github/tjcrone/agu2019/load_images.ipynb"
+                                    ]
+                                },
+                                {
+                                    "type": "tab-area",
+                                    "currentIndex": 0,
+                                    "widgets": [
+                                        "notebook:github/tjcrone/agu2019/show_image.ipynb"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "mode": "multiple-document",
+                "current": "terminal:1"
+            },
+            "left": {
+                "collapsed": true,
+                "widgets": [
+                    "filebrowser",
+                    "running-sessions",
+                    "dask-dashboard-launcher",
+                    "command-palette",
+                    "tab-manager",
+                    "extensionmanager.main-view"
+                ]
+            },
+            "right": {
+                "collapsed": true,
+                "widgets": []
+            }
+        },
+        "markdownviewer-widget:github/tjcrone/agu2019/logos.md": {
+            "data": {
+                "path": "github/tjcrone/agu2019/logos.md",
+                "factory": "Markdown Preview"
+            }
+        },
+        "terminal:1": {
+            "data": {
+                "name": "1"
+            }
+        },
+        "editor:github/tjcrone/agu2019/camhd_image.md": {
+            "data": {
+                "path": "github/tjcrone/agu2019/camhd_image.md",
+                "factory": "Editor"
+            }
+        },
+        "markdownviewer-widget:github/tjcrone/agu2019/camhd_image.md": {
+            "data": {
+                "path": "github/tjcrone/agu2019/camhd_image.md",
+                "factory": "Markdown Preview"
+            }
+        },
+        "notebook:github/tjcrone/agu2019/open_database.ipynb": {
+            "data": {
+                "path": "github/tjcrone/agu2019/open_database.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "notebook:github/tjcrone/agu2019/load_images.ipynb": {
+            "data": {
+                "path": "github/tjcrone/agu2019/load_images.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "notebook:github/tjcrone/agu2019/show_image.ipynb": {
+            "data": {
+                "path": "github/tjcrone/agu2019/show_image.ipynb",
+                "factory": "Notebook"
+            }
+        }
+    },
+    "metadata": {
+        "id": "/lab"
+    }
+}
